@@ -10,25 +10,25 @@ Raw sequence data to run the script are available at NCBI-SRA under accession PR
 
 [Create_taxoner_NCBI_index.sh](https://github.com/mchialva/RNA2M/blob/master/Create_taxoner_NCBI_index.sh)
 
-# Scripts used for meta-transcriptome diversity analysis
+## Scripts used for meta-transcriptome diversity analysis
 
 [3.bacteria_diversity.R](https://github.com/mchialva/RNA2M/blob/master/3.bacteria_diversity.R)
 
 [4.fungi_diversity.R](https://github.com/mchialva/RNA2M/blob/master/4.fungi_diversity.R)
 
-# Scripts to functionally annotate reads
+## Scripts to functionally annotate reads
 
 [5.eggNOG_functional_annotation.R](https://github.com/mchialva/RNA2M/blob/master/5.eggNOG_functional_annotation.R)
 
-# Variance Partitioning Analyses
+## Variance Partitioning Analyses
 
 [6.host_variance_partitioning.R](https://github.com/mchialva/RNA2M/blob/master/6.host_variance_partitioning.R)
 
-# AM colonization analysis
+## AM colonization analysis
 
 [7.AM_fungi.R](https://github.com/mchialva/RNA2M/blob/master/7.AM_fungi.R)
 
-# plots and graphics
+## plots and graphics
 
 [8.plots.R](https://github.com/mchialva/RNA2M/blob/master/8.plots.R)
 
